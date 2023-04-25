@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../Apna Collage/ProgrammerSrijib.java"
+		},
+		{
+			"path": "../Apna Collage/HackerRank.java"
+		}
+	],
+	"settings": {
+		"java.debug.settings.onBuildFailureProceed": true,
+		"java.project.sourcePaths": [
+			""
+		]
+	}
+}
